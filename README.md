@@ -1,4 +1,4 @@
-# F1-Data-Visualization-Dashboard
+# F1 Data Visualization Dashboard
 
 ## Introduction
 
