@@ -11,7 +11,7 @@ An interactive data visualization dashboard for Formula One, analyzing race wins
 
 The purpose of this project is to analyze and visualize Formula One race data to provide insights into factors contributing to race wins, team performance, and historical trends. The dashboard enables users to explore metrics such as win percentages, race wins by circuit, and the impact of starting positions on race outcomes.
 
-### Tools Used
+### Tool Used
 
 - **Microsoft Power BI**: A powerful business analytics tool used to create interactive visualizations and dashboards.
 
